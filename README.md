@@ -18,3 +18,8 @@ Dataset
 
 The dataset used in this project is the Heart Disease dataset.
 www.kaggle.com/datasets/uciml/pima-indians-diabetes-database
+
+
+### Acknowledgment 
+This project was inspired by the YouTube tutorial [Multiple Disease Prediction System using Machine Learning in Python | Streamlit Web App - Deployment](https://youtu.be/8Q_QQVQ1HZA?si=o4buaDAL0iHhfs_e). 
+I learned from the tutorial and adapted the code with my own modifications.  
